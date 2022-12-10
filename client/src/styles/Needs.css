@@ -1,0 +1,360 @@
+.head{
+    background-image: linear-gradient(rgba(0,0,0,0.6) , rgba(0,0,0,0.8)),
+    url("https://sahchicago.org/images/about-us/community-health-needs.jpg");
+    height: 500px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.h1{
+    color: #fff;
+}
+.h2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;   
+}
+.why{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+ background-color: black;
+  
+    color: #fff ;
+
+}
+.whyp{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    font-size: 30px;
+}
+.mentals{
+    display: flex;
+    justify-content: center;
+    align-items:center ;
+    gap: 20px;
+}
+.p1{
+   
+    
+    font-size: 20px;
+    height: 200px;
+    width: 350px;
+}
+
+.head2{
+    background-image: linear-gradient(rgba(0,0,0,0.6) , rgba(0,0,0,0.8)),
+    url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTq2goVIFoZMom8efpPiQsIvHI0DNXxygSg3dz14r0NRT_VUH6B-srNriisJvJZINC0-iY&usqp=CAU");
+    height: 500px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.heady{
+    background-image: linear-gradient(rgba(0,0,0,0.6) , rgba(0,0,0,0.8)),
+    url("https://i0.wp.com/theblackwallsttimes.com/wp-content/uploads/2019/04/800px-PresidentObamaMLKSchoolNOLAOct2009Handshakes.jpg?fit=800%2C533&ssl=1");
+    height: 500px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.head22{
+    background-image:
+    url("https://cloudfront-us-east-1.images.arcpublishing.com/tronc/JJAKT5QR7JH73FHPS5EPOA5ISI.jpg");
+    height: 500px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.lh{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.img{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.econ{
+    background-image:
+    url("https://i5.walmartimages.com/asr/5d33c79f-d436-44dc-812c-b3bdcaccce15.3f49cdd4c195c281281d25be82f7036a.jpeg?odnWidth=1000&odnHeight=1000&odnBg=ffffff");
+    height: 500px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.li{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.list{
+    font-size: 25px;
+    font-weight: bold;
+}
+.stat{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-repeat: no-repeat;
+    background-position: cover;
+    height: 700px;
+    width: 90%;
+}
+.stylely{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+        height: 750px;
+        width:100% ;
+        background-repeat: no-repeat;
+    }
+    .style2{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+            height: 750px;
+            width:100% ;
+            background-repeat: no-repeat;
+        }
+@media screen and (max-width: 500px){
+
+    .nav{
+        /* min-width: 100%; */
+       min-height: 15vh;
+       width: 350px;
+       background-color: rgb(0, 0, 0);
+       color: #fff;
+       align-items: center;
+       display: flex;
+       flex-direction: row;
+       justify-content: space-between;
+       position: sticky;
+     top: 0;
+     left: 0;
+     z-index:50 ;
+     }
+     
+     
+     .nav-head{
+         margin-left: 20px;
+         font-size: 30px;
+     
+     }
+     .navspan{
+         color: #fff;
+         
+     }
+     .nav-links{
+         display: flex;
+         text-decoration: none;
+        
+     }
+     .nav-links ul {
+         display: flex;
+         list-style: none;
+         flex-direction: row;
+     }
+
+
+    .head{
+        background-image: linear-gradient(rgba(0,0,0,0.6) , rgba(0,0,0,0.8)),
+        url("https://sahchicago.org/images/about-us/community-health-needs.jpg");
+        height: 400px;
+        width: 500px;
+        background-repeat: no-repeat;
+        background-position: center;
+        background-size: cover;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+    }
+    
+    .h1{
+        color: #fff;
+    }
+    .h2{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;   
+        font-style: bold;
+        
+    }
+    .why{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+        background-color: black;
+        gap: 10px;
+        color: #fff ;
+        font-size: 20px;
+    
+    }
+    .whyp{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+        font-size: 17px;
+    }
+
+    
+    .mentals{
+        display: flex;
+        justify-content: center;
+        flex-direction: column;
+        font-size: 17px;
+        
+        
+    }
+    .p1{
+       
+       
+        font-size: 20px;
+        height: 300px;
+        width: 350px;
+    }
+    
+    .head2{
+        background-image: linear-gradient(rgba(0,0,0,0.6) , rgba(0,0,0,0.8)),
+        url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTq2goVIFoZMom8efpPiQsIvHI0DNXxygSg3dz14r0NRT_VUH6B-srNriisJvJZINC0-iY&usqp=CAU");
+        height: 400px;
+        width: 500px;
+        background-repeat: no-repeat;
+        background-position: center;
+        background-size: cover;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+    }
+    .heady{
+        background-image: linear-gradient(rgba(0,0,0,0.6) , rgba(0,0,0,0.8)),
+        url("https://i0.wp.com/theblackwallsttimes.com/wp-content/uploads/2019/04/800px-PresidentObamaMLKSchoolNOLAOct2009Handshakes.jpg?fit=800%2C533&ssl=1");
+        height: 500px;
+        background-repeat: no-repeat;
+        background-position: center;
+        background-size: cover;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+    }
+    .head22{
+        background-image:
+        url("https://cloudfront-us-east-1.images.arcpublishing.com/tronc/JJAKT5QR7JH73FHPS5EPOA5ISI.jpg");
+        height: 400px;
+        width: 500px;
+        background-repeat: no-repeat;
+        background-position: center;
+        background-size: cover;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+    }
+    .lh{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+    }
+    .img{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+    }
+    .ss{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 300px;
+        width: 300px;
+    }
+    .econ{
+        background-image:
+        url("https://i5.walmartimages.com/asr/5d33c79f-d436-44dc-812c-b3bdcaccce15.3f49cdd4c195c281281d25be82f7036a.jpeg?odnWidth=1000&odnHeight=1000&odnBg=ffffff");
+        height: 300px;
+        width: 350px;
+        background-repeat: no-repeat;
+        background-position: center;
+        background-size: cover;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+    }
+    .li{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+    }
+    .list{
+        font-size: 25px;
+        font-weight: bold;
+    }
+    .stat{
+        height: 300px;
+        width: 400px;
+        background-repeat: no-repeat;
+    
+        background-size: cover;
+        
+     
+    }
+    .stylely{
+        height: 400px;
+        width: 500px;
+        background-repeat: no-repeat;
+        background-position: center;
+        background-size: cover;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+        }
+        .style2{
+            height: 400px;
+            width: 500px;
+            background-repeat: no-repeat;
+            background-position: center;
+            background-size: cover;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            flex-direction: column;
+            }
+}
